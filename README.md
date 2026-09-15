@@ -4,7 +4,7 @@ A robust, high-performance command-line spell checker utility built from scratch
 
 Every architectural layer—from token parsing to state generation and collision management—is implemented completely using core language paradigms, eliminating any reliance on third-party frameworks, natural language parsing libraries, or cloud infrastructure APIs.
 
-## Co-Authors (
+## Co-Authors 
 This project was co-developed equally from scratch by:
 * **Ayesha Ahmad**
 * **Tabeen Bokhat** 
